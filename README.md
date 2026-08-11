@@ -1,7 +1,6 @@
 # 🤖 Machine Learning Lab & Foundations 🚀
-
-> *"In God we trust. All others must bring data."* — W. Edwards Deming  
-> *(...and in this repo, we clean that data before it crashes our models!)*
+*"In God we trust. All others must bring data."* — W. Edwards Deming  
+*(...and in this repo, we clean that data before it crashes our models!)*
 
 Welcome to my **Machine Learning Playground Repository**! Whether you're here to copy code, learn how to tame unruly datasets, or figure out.
 
