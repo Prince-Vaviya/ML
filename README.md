@@ -1,4 +1,4 @@
-# 🤖 Machine Learning Lab & Foundations 🚀
+# ✨ Machine Learning Lab & Foundations 🚀
 *"In God we trust. All others must bring data."* — W. Edwards Deming  
 *(...and in this repo, we clean that data before it crashes our models!)*
 
