@@ -3,7 +3,7 @@
 **Assignment: Exploratory Data Analysis and Missing Value Treatment**  
 **Dataset:** `student_dataset_uncleaned.csv`
 
-This dataset contains student records with missing values, a few incorrect/outlier values, and a few duplicate rows, exactly as raw data usually looks before it is cleaned. Your task is to explore the dataset, identify its problems, and handle the missing values using the most appropriate method for each column.
+This dataset contains student records with missing values, a few incorrect/outlier values, and a few duplicate rows, exactly as raw data usually looks before it is cleaned. The task is to explore the dataset, identify its problems, and handle the missing values using the most appropriate method for each column.
 
 ---
 
