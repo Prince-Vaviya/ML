@@ -1,1 +1,0 @@
-const MyNewHomePageTitle Text("Hello Welcome to teh screen")
